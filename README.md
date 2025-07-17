@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Omendra+Kumar+Upadhyay;Aspiring+Engineer;Tech+Enthusiast" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Learn..;Share..;Grow !" />
+  <img src=https://github.com/Omendra108/Omendra108/blob/main/github-header-image%20(1).png alt="Banner" width="95%">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omendra108&label=Profile%20views&color=0e75b6&style=flat" alt="omendra108" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **VLSI designing**
 
-- 👯 I’m looking to collaborate on **Embedded, Python and Computer Vision related projects**
+- 👯 I’m looking to collaborate on **Embedded, control systems and Computer Vision related projects**
 
 - 👨‍💻 All of my projects are available at [https://omendra108.github.io/](https://omendra108.github.io/)
 
@@ -21,7 +21,6 @@
 
 - 📫 How to reach me **upadhyayom369@gmail.com**
 
-- ⚡ Fun fact **I think patents are for weak and insecure engineers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
