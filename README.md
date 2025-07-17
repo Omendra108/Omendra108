@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/omendra108/omendra108/assets/banner.gif" alt="Banner" width="100%">
+  <img src="https://github.com/omendra108/Omendra108/github-header-image.png" alt="Banner" width="100%">
 </p>
 
 <p align="center">
