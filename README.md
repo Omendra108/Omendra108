@@ -7,17 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omendra108&label=Profile%20views&color=0e75b6&style=flat" alt="omendra108" /> </p>
 
-- 🔭 I’m currently working on **Multidisciplinary Projects related to Electronics and Computer Science**
+- 🔭 I’m currently working on **Multidisciplinary Projects related to Electronics, Electrical and Computer Science**
 
-- 🌱 I’m currently learning **VLSI designing**
+- 🌱 I’m always learning and beleive that an Engineer does not belong to a domain, it's sole job is to **solve problems** that requires logic and maths !
 
-- 👯 I’m looking to collaborate on **Embedded, control systems and Computer Vision related projects**
+- 👯 I’m looking to collaborate on **Computer Vision, Embedded System, Control Systems, Machine Learning etc.**
 
-- 👨‍💻 All of my projects are available at [https://omendra108.github.io/](https://omendra108.github.io/)
+- 👨‍💻 All of my projects are available at [Website](https://omendra-portfolio.vercel.app/index.html)
 
-- 📝 I regularly write articles on [https://omendra108.github.io/blogs.html](https://omendra108.github.io/blogs.html)
-
-- 💬 Ask me about **Electrical Engineering, Embedded System, Geopolitics and Movies !**
+- 💬 Ask me about **Engineering, Geopolitics and Movies !**
 
 - 📫 How to reach me **upadhyayom369@gmail.com**
 
