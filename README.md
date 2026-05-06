@@ -1,35 +1,71 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Omendra+Kumar+Upadhyay;Aspiring+Engineer;Tech+Enthusiast" />
-</p>
-<p align="center">
-  <img src=https://github.com/Omendra108/Omendra108/blob/main/github-header-image%20(1).png alt="Banner" width="95%">
-</p>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omendra108&label=Profile%20views&color=0e75b6&style=flat" alt="omendra108" /> </p>
+# Omendra Kumar Upadhyay
 
-- 🔭 I’m currently working on **Multidisciplinary Projects related to Electronics, Electrical and Computer Science**
+**Engineer · Problem Solver · Continuous Learner**
 
-- 🌱 I’m always learning and beleive that an Engineer does not belong to a domain, it's sole job is to **solve problems** that requires logic and maths !
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omendra-kumar-upadhyay)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upadhyayom369@gmail.com)
 
-- 👯 I’m looking to collaborate on **Computer Vision, Embedded System, Control Systems, Machine Learning etc.**
+![Profile Views](https://komarev.com/ghpvc/?username=omendra108&label=Profile+Views&color=0e75b6&style=flat)
 
-- 👨‍💻 All of my projects are available at [Website](https://omendra-portfolio.vercel.app/index.html)
+</div>
 
-- 💬 Ask me about **Engineering, Geopolitics and Movies !**
+---
 
-- 📫 How to reach me **upadhyayom369@gmail.com**
+## About Me
 
+Electrical engineer from the _Land of GODs — India_, graduated from IIT with multidisciplinary studies and work spanning **Electronics, Electrical Engineering, and Computer Science**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omendra kumar upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omendra kumar upadhyay" height="30" width="40" /></a>
-<a href="https://instagram.com/om.endra_3.6.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om.endra_3.6.9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yo_om" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yo_om" height="30" width="40" /></a>
-</p>
+**Books, Sports, Nature, and Music** keep me grounded and going.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I believe engineering transcends domains — at its heart, it is the disciplined application of logic and mathematics to solve problems that matter. My focus is on building things that are useful, future-facing, and rooted in fundamentals. I actively seek out challenges and embrace new technologies and concepts as tools to get there.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omendra108&show_icons=true&locale=en&layout=compact" alt="omendra108" /></p>
+Real inspiration, for me, comes not from fiction but from people who actually did it. I look up to **Sir Nikola Tesla** — for his relentless innovation and perseverance in the face of adversity.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omendra108&show_icons=true&locale=en" alt="omendra108" /></p>
+> *"Not money, not strength, not beauty took humans to the top of the food chain — it was always the Why? and the How? and the insatiable curiosity behind them."*
+
+---
+
+## What I Work On
+
+- **Computer Vision** — Building perception systems that extract meaning from visual data using OpenCV and Python
+- **Machine Learning & Deep Learning** — Applying intelligent techniques to real engineering problems across domains
+- **Embedded Systems** — Writing firmware and building hardware integrations with Arduino and low-level C/C++
+
+I'm always looking to learn something new, prototype an idea, and build something that didn't exist before.
+
+---
+
+## Technical Skills
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+### Tools & Frameworks
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Areas of Interest
+`Computer Vision` · `Embedded Systems` · `Control Systems` · `Machine Learning` · `Signal Processing`
+
+---
+
+## Let's Connect
+
+Open to collaborating on engineering projects that live at the intersection of hardware and software. If you're building something in Computer Vision, Embedded Systems, Control Systems, or Machine Learning — I'd love to be part of it.
+
+Reach out at **upadhyayom369@gmail.com** or find me on [LinkedIn](https://linkedin.com/in/omendra-kumar-upadhyay).
+
+Beyond tech, I'm always up for a conversation about **Engineering, Geopolitics, or Movies**.
+
+---
+
+<div align="center">
+<sub>Built with curiosity · Driven by logic · Grounded in fundamentals</sub>
+</div>
